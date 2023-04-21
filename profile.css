@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.card-container {
+    background-color: pink;
+    height: 200vh;
+    width: 200vh;
+}
+
+.main-heading1 {
+    color: blue;
+    font-size: 5vh;
+    font-family: Roboto;
+    padding: 10px;
+
+}
+
+.divered {
+    width: 190vh;
+    height: 5px;
+    background-color: black;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.divered1 {
+    width: 3px;
+    height: 160px;
+    background-color: black;
+    display: inline-block;
+    margin-top: 5px;
+
+}
+
+.divered2 {
+    width: 3px;
+    height: 50vh;
+    background-color: black;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.divered3 {
+    width: 3px;
+    height: 40vh;
+    background-color: black;
+    display: inline-block;
+    margin-top: 5px;
+}
+
+.divered4 {
+    width: 3px;
+    height: 30vh;
+    background-color: black;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 40vh;
+}
+
+.image1 {
+    height: 100px;
+    width: 10px;
+}
+
+.heading1 {
+    font-size: 10px;
+    padding: 5px;
+    margin-left: 50px;
+    color: blue;
+}
+
+.profile-image {
+    padding: 5vh;
+}
+
+.profile-heading {
+    font-size: 13px;
+    padding: 3px;
+}
+
+.paragraph {
+    color: blue;
+    margin-left: 10px;
+}
+
+.work-image {
+    padding: 10px;
+}
+
+.work-heading {
+    font-size: 15px;
+    padding: 6px;
+}
+
+.paragraph1 {
+    padding: 10px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 30vh;
+}
+
+.paragraph2 {
+    color: blue;
+    margin-left: 30vh;
+    font-weight: bold;
+
+}
+
+.paragraph3 {
+    color: blue;
+    margin-left: 30vh;
+}
+
+.skill1 {
+    font-size: 3vh;
+    color: blue;
+    margin-right: 25px;
+    width: 20vh;
+    height: 10vh;
+    padding: 10px;
+}
+
+.skills2 {
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+    margin: 20px;
+    font-size: 100vh;
+}
+
+.skills-para {
+    color: blue;
+    margin-left: 5vh;
+}
+
+.skills-para2 {
+    color: blue;
+    margin-left: 10vh;
+}
+
+.bulp-image1 {
+    padding: 10vh;
+}
+
+.skills3 {
+    color: blue;
+    padding: 10px;
+}
+
+.bulp-heading {
+    font-size: 10px;
+    padding: 10px;
+}
+
+.bulb-image2 {
+    padding: 40vh;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.edu-para1 {
+    color: blue;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+
+.edu-main {
+    color: Blue;
+    padding: 20px;
+    margin-left: 20px;
+}
